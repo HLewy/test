@@ -1,0 +1,22 @@
+html{
+    font-size: 150%;  
+    
+    background-image:linear-gradient(180deg,rgba(255, 255, 0, 0.5),rgba(0, 0,255 , 0.5)), url(https://demoda.vn/wp-content/uploads/2022/08/hinh-anh-avatar-nu-de-thuong.jpg);
+    background-size: 50%;
+  }
+
+#poke{
+    color:purple;
+    font-size: 2rem;
+}
+.shadow{
+    color:#5d0649;
+    font-size: 1,2rem;
+}
+.fight{
+    color:#6c1b1b;
+    font-size: 1,2rem;
+}
+
+
+
